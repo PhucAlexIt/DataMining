@@ -1,5 +1,6 @@
 import pandas as pd
-import matplotlib.pyplot as plt
 
-df = pd.read_excel("./Data/data02.xlsx")
-print(df.columns)
+df = pd.read_excel("./Files/data02.xlsx")
+df['Điểm_DM'] = pd.to_numeric(df['Điểm_DM'], errors='coerce')
+df['Điền giá trị thiếu'] = df['Điểm_DM'].fillna(df['Điểm_DM'].median())
+print(df)
