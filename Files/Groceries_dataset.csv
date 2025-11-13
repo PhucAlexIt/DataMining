@@ -5,11 +5,11 @@ Member_number,Date,itemDescription
 1187,12-12-2015,other vegetables
 3037,01-02-2015,whole milk
 4941,14-02-2015,rolls/buns
-4501,08-05-2015,other vegetables
+4501,,other vegetables
 3803,23-12-2015,pot plants
 2762,20-03-2015,whole milk
 4119,12-02-2015,tropical fruit
-1340,24-02-2015,citrus fruit
+1340,,citrus fruit
 2193,14-04-2015,beef
 1997,21-07-2015,frankfurter
 4546,03-09-2015,chicken
@@ -53,9 +53,9 @@ Member_number,Date,itemDescription
 2978,05-06-2015,ham
 2910,28-07-2015,turkey
 1061,05-09-2015,whole milk
-3276,03-04-2015,whole milk
+3276,,whole milk
 1326,19-06-2015,packaged fruit/vegetables
-3023,28-07-2015,rolls/buns
+3023,,rolls/buns
 2185,11-10-2015,ham
 3552,16-06-2015,rolls/buns
 1967,20-01-2015,other vegetables
@@ -72,7 +72,7 @@ Member_number,Date,itemDescription
 4766,29-09-2015,whole milk
 2436,12-04-2015,frankfurter
 3860,05-05-2015,whole milk
-4875,12-05-2015,frozen potato products
+4875,,frozen potato products
 1587,01-07-2015,other vegetables
 4038,08-07-2015,citrus fruit
 4750,21-09-2015,flour
